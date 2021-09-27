@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## DEMO
-##<a href="https://netflix-clone-d20df.firebaseapp.com/" target="_blank">LIVE DEMO</a>
+## <a href="https://netflix-clone-d20df.firebaseapp.com/" target="_blank">LIVE DEMO</a>
 
 ##SCREENSHOTS
 ![Web capture_27-9-2021_84553_localhost](https://user-images.githubusercontent.com/79313369/134841936-7114b92b-cb9e-445b-9da8-48e6e60479e7.jpeg)
