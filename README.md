@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://netflix-clone-d20df.web.app/
 
 ##SCREENSHOTS
+![Web capture_27-9-2021_84553_localhost](https://user-images.githubusercontent.com/79313369/134841936-7114b92b-cb9e-445b-9da8-48e6e60479e7.jpeg)
+![Web capture_27-9-2021_84147_localhost](https://user-images.githubusercontent.com/79313369/134841939-7819ac34-8434-4957-a7de-004c30f81eb8.jpeg)
+![Web capture_27-9-2021_84117_localhost](https://user-images.githubusercontent.com/79313369/134841940-deead0f3-a92e-49cc-8dd2-d2b1c8472fc6.jpeg)
+![Web capture_27-9-2021_9459_localhost](https://user-images.githubusercontent.com/79313369/134841942-4c881738-5d53-46c7-9c22-c8e175677a0c.jpeg)
 
 ![image](https://user-images.githubusercontent.com/79313369/131255980-c09def45-f7f8-4cc2-863d-5d7ebfc4b501.png)
 
