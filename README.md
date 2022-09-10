@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## DEMO
 ## <a href="https://netflix-clone-d20df.firebaseapp.com/" target="_blank">LIVE DEMO</a>
+## <a href="https://www.youtube.com/watch?v=6UT9l40g9pY&ab_channel=EzzyXd" target="_blank">VIEDO DEMO</a>
 
 ##SCREENSHOTS
 ![Web capture_27-9-2021_84553_localhost](https://user-images.githubusercontent.com/79313369/134841936-7114b92b-cb9e-445b-9da8-48e6e60479e7.jpeg)
